@@ -1,1 +1,1 @@
-web: ng serve --preserve-symlinks
+web: node ./bin/www

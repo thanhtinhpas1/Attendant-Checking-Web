@@ -9,7 +9,7 @@
     "prod": "cross-env NODE_ENV=production & node ./bin/www",
     "client": "ng serve --preserve-symlinks",
     "server": "supervisor ./bin/www",
-    "build": "ng build --preserve-symlinks",
+    "build": "ng build aot",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
