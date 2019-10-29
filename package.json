@@ -9,7 +9,6 @@
     "prod": "cross-env NODE_ENV=production & node ./bin/www",
     "client": "ng serve",
     "server": "supervisor ./bin/www",
-    "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
