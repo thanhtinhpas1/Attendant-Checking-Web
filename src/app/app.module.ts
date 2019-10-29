@@ -3,7 +3,7 @@ import { NgModule, LOCALE_ID } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule, Http } from '@angular/http';
 import { RouterModule, Routes } from '@angular/router';
-import { FileUploadModule } from "ng2-file-upload";
+import { FileUploadModule } from "ng2-file-upload/ng2-file-upload";
 import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { LogoutComponent } from './logout.component';
